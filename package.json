@@ -1,10 +1,10 @@
 {
-  "name": "nodejs",
+  "name": "nodejs-argo",
   "version": "8.8.8",
-  "description": "Thsi is a sample game",
+  "description": "Thsi is a node project",
   "main": "index.js",
-  "author": "",
-  "repository": "",
+  "author": "eooce",
+  "repository": "https://github.com/eooce/nodejs-argo",
   "license": "MIT",
   "private": false,
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "axios": "latest",
-    "express": "^5.1.0"
+    "express": "^4.18.2"
   },
   "engines": {
     "node": ">=14"
