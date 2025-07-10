@@ -1,9 +1,9 @@
 {
   "name": "nodejs",
   "version": "8.8.8",
-  "description": "Thsi is a node project",
+  "description": "This is a simple game",
   "main": "index.js",
-  "author": "",
+  "author": "andth",
   "repository": "",
   "license": "MIT",
   "private": false,
